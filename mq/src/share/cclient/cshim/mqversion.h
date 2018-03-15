@@ -28,10 +28,10 @@
 
 #define MQ_NAME    "Oracle GlassFish(tm) Server Message Queue"
 
-#define MQ_VERSION "5.1.1"
+#define MQ_VERSION "5.2.0"
 #define MQ_VMAJOR   5
-#define MQ_VMINOR   1
-#define MQ_VMICRO   1 
+#define MQ_VMINOR   2
+#define MQ_VMICRO   0 
 #define MQ_SVCPACK  0
 #define MQ_URELEASE 0
 
